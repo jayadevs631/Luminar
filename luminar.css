@@ -1,0 +1,124 @@
+.firstlabel {
+        
+    margin-bottom: 189px;
+}
+.secondlabel{
+    
+    margin-bottom: 97px;
+
+}
+#secondlabelcontent{
+    margin-left: 188px
+}
+#AI {
+    margin-left: -65%;
+}
+#placement{
+
+margin-left: -127px;
+}
+#kerala {
+    margin-left: -36px;
+}
+
+span{
+    margin-left: 1%;
+}
+span.carousel-control-prev-icon.span {
+    margin-left: -84%;
+}
+span.carousel-control-prev-icon {
+    margin-left: -80%;
+}
+.viewcourse1{
+    background-color: blueviolet;
+    border: none;
+    border-radius: 29px;
+    height: 58px;
+    width: 171px;
+    margin-left: -71%;
+}
+.viewcourse2{
+    background-color: blueviolet;
+    border: none;
+    border-radius: 29px;
+    height: 58px;
+    width: 171px;
+    margin-bottom: 71px;
+    margin-top: -7%;
+    margin-left: -262px;
+
+}
+.modelbtn {
+    background-color: blueviolet;
+    color: white;
+    width: 150px;
+    font-weight: bold;
+    font-size: 13px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+}
+
+.fa-regular, .far {
+    font-weight: 400;
+}
+.fa-solid, .fas {
+    font-weight: 900;
+}
+.ispan {
+    color: black;
+    font-size: 12px;
+    text-align: start;
+    font-weight: 700;
+}
+
+
+.btnx1{
+    border:2px solid blueviolet;
+    border-radius: 50px;
+    background-color:blueviolet ;
+    height: 47px;
+    padding: 10px;
+    color: white;
+}
+.btnx1:hover{
+    color: blueviolet;
+    background-color:white ;
+}
+.viewcourse1{
+    color: white;
+
+}
+.viewcourse1:hover{
+    color: blueviolet;
+    background-color: white;
+    border: 2px solid blueviolet;
+}
+.cdiv:hover{
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);;
+}
+.viewcourse2{
+    color: white;
+
+}
+.viewcourse2:hover{
+    color: blueviolet;
+    background-color: white;
+    border: 2px solid blueviolet;
+}
+.our{
+    color: blueviolet;
+}
+.courses{
+    color: rgba(137, 43, 226, 0.552);
+}
+.datascience{
+    color: blueviolet;
+}
+.xy1{
+    color: blueviolet;
+}
+.xy2{
+    color: blueviolet;
+}
